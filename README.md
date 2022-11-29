@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Im ToxicFlame427!</h1>
-<p>I am 17 years old, live in the northern USA, and I have been programming for about 5 years now (I dont have any real job experince though)! I had started with HTML and CSS and moved my way up to the more complex languages like C/C++.
+<p>I am 18 years old, live in the northern USA, and I have been programming for about 5 years now (I dont have any real job experince though)! I had started with HTML and CSS and moved my way up to the more complex languages like C/C++.
 The only real reason I learned C/C++ was to build GameBoy games from scratch, which i thought was kind of fun! I would like to do more with C/C++ in the future!
 I dabbled a bit with C#, but never really built any real useful programs. The only programs I had build with C# were prank viruses and this little program that gets 
 the current position of the cursor every 1/4 of a second. Right now, I am learning Android Development with Kotlin and Android Studio. So far, I have
