@@ -1,5 +1,3 @@
-<h1 align="center">Hello! Im ToxicFlame427!</h1>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1294ff&height=300&section=header&text=ToxicFlame427&fontSize=80)
 
 <p>
@@ -12,7 +10,7 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
   Dakota State University
 
   <a href="https://dsu.edu/" target="_blank">
-    <img src="https://dsu.edu/marketing/_files/DSU_UniversityLogo_Stacked_Primary_BlueWordmark_FC.png" style="height: 150;"/>
+    <img src="https://dsu.edu/marketing/_files/DSU_UniversityLogo_Stacked_Primary_BlueWordmark_FC.png" height="150"/>
   </a>
 </div>
 
