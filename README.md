@@ -4,7 +4,7 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 You can view the apps I have published on <a href="https://play.google.com/store/search?q=ToxicFlame427&c=apps&hl=en" target="_blank">Google Play</a> and on the <a href="https://apps.apple.com/us/developer/koewen-hoffman/id1640324631" target="_blank">iOS App Store</a>!
 Visit <a href="https://toxicflame427.xyz" target="_blank">my website</a> to see some more projects I am working on!
 </p>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=toxicflame427&show_icons=true&theme=radical)](https://github.com/anuraghazr/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=toxicflame427&show_icons=true&theme=radical)]
 <br>
 <p>I just wanted to share below the programming languages that I know:</p>
 <ul>
