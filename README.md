@@ -2,8 +2,8 @@
 
 <p>
 Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call me Koewen. I'm a mobile application developer and I like to code. I look forward to working with others on large projects and aspiring to be a software / AI engineer.
+</p>
 
-</h3>
 <div align="center">
   <h3 style="font-style:italic;">Computer Science & AI (Junior)
 
@@ -15,14 +15,20 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 </div>
 
 <h3>Languages</h3>
+<span>
 <img alt="HTML" src="https://img.shields.io/badge/Html-ff0000?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-0000ff?logo=css&logoColor=white&style=for-the-badge" /><img alt="Dart" src="https://img.shields.io/badge/Dart-0051ff?logo=dart&logoColor=white&style=for-the-badge" /><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-8400ff?logo=kotlin&logoColor=white&style=for-the-badge" /><img alt="Swift" src="https://img.shields.io/badge/swift-f73131?logo=swift&logoColor=white&style=for-the-badge"/><img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-a231f7?logo=csharp&logoColor=white&style=for-the-badge"/><img alt="C/C++" src="https://img.shields.io/badge/C & C++-8888ff?logo=c&logoColor=white&style=for-the-badge"/><img alt="Python" src="https://img.shields.io/badge/python-f5d905?logo=python&logoColor=white&style=for-the-badge"/>
+</span>
 
 <h3>Frameworks</h3>
+<span>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-61DAFB?logo=flutter&logoColor=white&style=for-the-badge" /><img alt="Ktor" src="https://img.shields.io/badge/ktor-f23bff?logo=ktor&logoColor=white&style=for-the-badge" /><img alt="Android Jetpack" src="https://img.shields.io/badge/Jetpack Compose-88ff75?logo=jetpackcompose&logoColor=white&style=for-the-badge" /><img alt="Swift UI" src="https://img.shields.io/badge/swift ui-f73131?logo=swift&logoColor=white&style=for-the-badge"/><img alt=".Net Framework" src="https://img.shields.io/badge/.net framework-a231f7?logo=.net&logoColor=white&style=for-the-badge"/><img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-ffaa00?logo=tensorflow&logoColor=white&style=for-the-badge"/><img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-ff8811?logo=huggingface&logoColor=white&style=for-the-badge"/>
+</span>
 
 <h3>Tools and Software</h3>
+<span>
 <img alt="Mongo DB" src="https://img.shields.io/badge/mongo db-0b8f01?logo=mongodb&logoColor=white&style=for-the-badge"/><img alt="Cloudflare" src="https://img.shields.io/badge/cloudflare-f5af00?logo=cloudflare&logoColor=white&style=for-the-badge"/><img alt="Firebase" src="https://img.shields.io/badge/firebase-ff8888?logo=firebase&logoColor=white&style=for-the-badge"/><img alt="XCode" src="https://img.shields.io/badge/XCode-5555ff?logo=xcode&logoColor=white&style=for-the-badge"/><img alt="Android Studio" src="https://img.shields.io/badge/android studio-22cc22?logo=androidstudio&logoColor=white&style=for-the-badge"/>
+</span>
 
 <h3>Github Stats</h3>
 
