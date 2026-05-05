@@ -33,8 +33,6 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 <img alt="Android Jetpack" src="https://img.shields.io/badge/Jetpack Compose-88ff75?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
 <img alt="Swift UI" src="https://img.shields.io/badge/swift ui-f73131?logo=swift&logoColor=white&style=for-the-badge"/>
 <img alt=".Net Framework" src="https://img.shields.io/badge/.net framework-a231f7?logo=.net&logoColor=white&style=for-the-badge"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-ffaa00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-<img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-ff8811?logo=huggingface&logoColor=white&style=for-the-badge"/>
 </span>
 
 <h3>Tools and Software</h3>
@@ -44,6 +42,12 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ff8888?logo=firebase&logoColor=white&style=for-the-badge"/>
 <img alt="XCode" src="https://img.shields.io/badge/XCode-5555ff?logo=xcode&logoColor=white&style=for-the-badge"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/android studio-22cc22?logo=androidstudio&logoColor=white&style=for-the-badge"/>
+</span>
+
+<h3>Currently Learning</h3>
+<span>
+<img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-ffaa00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
+<img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-ff8811?logo=huggingface&logoColor=white&style=for-the-badge"/>
 </span>
 
 <h3>Github Stats</h3>
