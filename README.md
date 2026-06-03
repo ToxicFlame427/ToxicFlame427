@@ -42,6 +42,7 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ff8888?logo=firebase&logoColor=white&style=for-the-badge"/>
 <img alt="XCode" src="https://img.shields.io/badge/XCode-5555ff?logo=xcode&logoColor=white&style=for-the-badge"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/android studio-22cc22?logo=androidstudio&logoColor=white&style=for-the-badge"/>
+<img alt="n8n" src="https://img.shields.io/badge/n8n-22cc22?logo=n8n&logoColor=white&style=for-the-badge"/>
 </span>
 
 <h3>Currently Learning</h3>
