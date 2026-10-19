@@ -5,7 +5,7 @@ Hello Github! I'm ToxicFlame427 (the name of my online presence) or you can call
 </p>
 
 <div align="center">
-  <h3 style="font-style:italic;">Computer Science & AI (Junior)
+  <h3 style="font-style:italic;">Computer Science & AI (Senior)
 
   Dakota State University
   </h3>
